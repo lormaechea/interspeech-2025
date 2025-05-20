@@ -1,6 +1,6 @@
 # Interspeech submission
 
-### Supplementary materials for anonymous submission to Interspeech 2025
+### Supplementary materials for our submitted paper to Interspeech 2025
 
 ---
 
@@ -13,7 +13,7 @@ To this end, we include:
 - The set of collected expert-based simplifications, that allowed to evaluate the quality of the generated outputs under different automatic metrics.
 
 ```
-interspeech-2025-supplementary/
+interspeech-2025/
 ├── README.md
 ├── data/
 │   ├── experts/ 
@@ -42,8 +42,8 @@ __Prerequisites__:
 - Obtain an OpenAI API key: https://openai.com/index/openai-api/.
 
 ```
-$ git clone git@github.com:speech-simp-anonymous/interspeech-2025-supplementary.git
-$ cd interspeech-2025-supplementary
+$ git clone git@github.com:lormaechea/interspeech-2025.git
+$ cd interspeech-2025
 $ pip install -e requirements.txt
 ```
 
