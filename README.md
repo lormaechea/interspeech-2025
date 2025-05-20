@@ -55,3 +55,22 @@ $ pip install -e requirements.txt
 $ python generate_data_mistral.py # To generate Mistral-based synthetic simplifications
 $ python generate_data_openai.py  # To generate OpenAI-based synthetic simplifications
 ```
+
+### 4. Authors
+
+<!-- If you find this repository helpful, feel free to cite our publication [Towards High-Quality LLM-Based Data for French Spontaneous Speech Simplification: an Exo-Refinement Approach](https://to_appear):-->
+
+```bibtex 
+@inproceedings{ormaechea-2025-speech-simplification,
+    title = {Towards High-Quality LLM-Based Data for French Spontaneous Speech Simplification: an Exo-Refinement Approach},
+    author = {Lucía Ormaechea, Nikos Tsourakis, Pierrette Bouillon, Benjamin Lecouteux and Didier Schwab},
+    booktitle = {Proc. Interspeech 2025},
+    year = {2025},
+    location = {Rotterdam, Netherlands},
+    url = {To appear},
+}
+``` 
+
+__Contact person__: [Lucía Ormaechea](https://luciaormaechea.com/), [lucia.ormaecheagrijalba@unige.ch](mailto:lucia.ormaecheagrijalba@unige.ch)
+
+If you have further questions, don't hesitate to send us an email.
