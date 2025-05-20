@@ -6,7 +6,7 @@
 
 ### 1. Repo structure: 
 
-This repository provides supplementary materials for our submission entitled "__Towards high-quality LLM-based data for French spontaneous speech simplification: an exo-refinement approach__" for  the next edition of Interspeech. The main goal is to provide all the codes and prompt templates to generate reproducible results. 
+This repository provides supplementary materials for our submission entitled "__Towards High-Quality LLM-Based Data for French Spontaneous Speech Simplification: an Exo-Refinement Approach__" for  the next edition of Interspeech. The main goal is to provide all the codes and prompt templates to generate reproducible results. 
 
 To this end, we include:
 - The designed code along with the different generative prompting templates to implement the iterative generation-evaluation workflow and thus produce synthetic simplifications.
