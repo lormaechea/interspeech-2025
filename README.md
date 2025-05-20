@@ -1,10 +1,8 @@
-# Anonymous Interspeech submission
+# Interspeech submission
 
 ### Supplementary materials for anonymous submission to Interspeech 2025
 
 ---
-
-<!-- https://github.com/speech-simp-anonymous/interspeech-2025-supplementary -->
 
 ### 1. Repo structure: 
 
